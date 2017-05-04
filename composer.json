@@ -1,0 +1,13 @@
+{
+    "name": "Projeto de STAMPS - Hospitais",
+    "description": "Soluções Tecnológicas Aplicados a Midias",
+    "authors": [
+        {
+            "name": "Filipe Santiago de Queiroz",
+            "email": "filipesantiago.qrz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8"
+    }
+}
